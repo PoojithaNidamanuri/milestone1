@@ -1,0 +1,15 @@
+<!DOCTYPE>
+<html>
+<head>
+    <title>Web Page</title>
+</head>
+<body>
+<h2 style="color:red; font-size:40px;"><i>Women's collection</h2></i>
+<h2 style="color:blue; font-size:40px;"><i>Men's collection</h2></i>
+<p>This Collection Consist's of Women wear like Kurtas,Kurta Sets,Tops,Jeans,Jeggings,Leggings etc  
+    in this collection we have to selct what we want</p>
+<p>This Collection Consist's of Men wear like shirts,Tshirts,Jeans,Shoe,Wallets,Jackets etc
+     in this collection we have to select what we want</p>
+<img src="https://tse3.mm.bing.net/th?id=OIP.t45bHhy5tmFmdY1ieccG-wHaE8&pid=Api7P=0" alt="Shopping">
+</body>
+</html>
